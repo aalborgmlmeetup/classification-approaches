@@ -35,8 +35,4 @@ During the meetings Jupyter notebooks will be used for simplicity. There might b
 - Hyperparameter tuning
 
 ## Basic setup
-### Windows
-
-### MAC
-
-### Ubuntu
+The easiest way to achieve an identical environment is to use anaconda and the ```environment.yml``` file located in the root directory of this repo. Later on the environment might be split into several ones as we progress with the different approaches.
